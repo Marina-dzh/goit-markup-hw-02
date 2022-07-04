@@ -32,10 +32,11 @@ body {
 .logo-light { color: var(--bcg);}
 
 /* header */
-.header{font-weight: 500;
+.header {font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;}
+
 .site-nav {color:var(--scnd-text-color) ;}
 .site-nav:hover , .site-nav:focus { color: var(--acc);}
 .contact-header{color:var(--main-text-color) ;}
@@ -46,7 +47,7 @@ body {
 .hero{ color: var(--bcg);
     background-color:var(--bcg-dark);}
     
-.hero-title{ font-weight: 900;
+.hero-title { font-weight: 900;
     font-size: 44px;
     line-height: 1.36;
     text-align: center;
@@ -78,7 +79,9 @@ body {
     line-height: 1.16;
     text-align: center;
     letter-spacing: 0.03em;}
+
 .command{background-color:var(--bcg-light);}
+
 .title-command{color:var(--scnd-text-color) ;
     font-weight: 500;
     font-size: 16px;
